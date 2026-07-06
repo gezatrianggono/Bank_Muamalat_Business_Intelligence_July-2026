@@ -62,9 +62,9 @@ Built in Google Looker Studio, fulfilling all mandatory challenge requirements:
 4. **Connect Looker Studio**: Upload the CSV file to Google Looker Studio, add filter controls, and configure the visuals as required.
 
 ## 🔗 8) Important Links
-- **Looker Studio Dashboard**: [Insert Your Dashboard Link Here]
-- **Video Presentation**: [Insert Your YouTube/GDrive Link Here]
-- **Final Submission File (PDF)**: [Insert Your PDF Link Here]
+- **Looker Studio Dashboard**: (https://datastudio.google.com/reporting/0900e11c-47d7-4c14-9b90-8a7b9f309719)
+- **Video Presentation**: (https://datastudio.google.com/reporting/0900e11c-47d7-4c14-9b90-8a7b9f309719)
+- **Final Submission File (PDF)**: https://datastudio.google.com/reporting/0900e11c-47d7-4c14-9b90-8a7b9f309719
 
 ## 📁 9) Repository Structure
 ```text
