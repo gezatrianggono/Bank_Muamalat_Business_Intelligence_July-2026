@@ -1,6 +1,6 @@
 # 🏦 Virtual Internship Experience — BI Analyst Bank Muamalat (PT Sejahtera Bersama)
 
-![Dashboard Overview](./assets/Dashboard_Bank_Muamalat.jpg)
+![Dashboard Overview](./assets/Bank_Muamalat_BI_PT_Sejahtera_Bersama.jpg)
 
 <br>
 
