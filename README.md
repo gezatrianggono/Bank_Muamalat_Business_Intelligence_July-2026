@@ -63,8 +63,8 @@ Built in Google Looker Studio, fulfilling all mandatory challenge requirements:
 
 ## 🔗 8) Important Links
 - **Looker Studio Dashboard**: (https://datastudio.google.com/reporting/0900e11c-47d7-4c14-9b90-8a7b9f309719)
-- **Video Presentation**: (https://datastudio.google.com/reporting/0900e11c-47d7-4c14-9b90-8a7b9f309719)
-- **Final Submission File (PDF)**: https://datastudio.google.com/reporting/0900e11c-47d7-4c14-9b90-8a7b9f309719
+- **Video Presentation**: (https://drive.google.com/drive/folders/1wcF_1lIImJJjo7OsB60Of6IZiynB-Ij8?usp=drive_link)
+- **Final Submission File (PDF)**: (https://drive.google.com/drive/folders/1wcF_1lIImJJjo7OsB60Of6IZiynB-Ij8?usp=drive_link)
 
 ## 📁 9) Repository Structure
 ```text
